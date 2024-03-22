@@ -8,7 +8,7 @@ Kör appen enligt följande:
     2. Ändra PORT-konstanten till rätt portnummer enligt lista på itslearning
     3. Starta appen i terminalen med
         python app.py
-    4. Besök sidan på nätet med https://kursens.server.fi:80xx
+    4. Besök sidan på https://kursens.server.fi:80xx
 """
 
 PORT=5000
